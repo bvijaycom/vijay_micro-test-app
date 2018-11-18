@@ -1,0 +1,39 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "vijaymicrotestapp",
+    "packageName": "io.github.jhipster.application",
+    "packageFolder": "io/github/jhipster/application",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.7.0",
+    "jwtSecretKey": "MWNhNTlhZDZiMGI0YTc0NjgyZTAyNGY1NjEwNzQ1M2RkZWExZTVmMGU5YWRhZWIyODg3MTczYTE4YzRjMjY0NWM4OTdkYjUwNDI2NTk5ZGVjODhhZTczZTYwNTczMzJlNDQ0OGJjMTU2YWEwZjQ4MTE5M2Y4ZjgzNTY0N2UxMWY=",
+    "otherModules": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "bvijaycom",
+  "repository-name": "vijay_micro-test-app"
+}
